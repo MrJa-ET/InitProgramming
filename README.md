@@ -1,6 +1,6 @@
 #Shortnote about first class
 Topic : 
-<u>Text,calculator and storage 
+Text,calculator and storage 
 * Raised ideas :
 at first we discussed about text in the real world and later see how the markup language HTML is 
 reflection of the real world. then we talked about the style sheet used to style the text that is written using the structure in this case html
