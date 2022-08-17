@@ -1,4 +1,4 @@
-#Shortnote about first class
+#Short note on first class
 
 Topic : 
  Text,calculator and storage 
